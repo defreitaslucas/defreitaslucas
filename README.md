@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Lucas</h1>
+<h1 align="center">Olá 👋, sou Lucas</h1> <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="octocat" height="30" width="40" />
 <h3 align="center">Um desenvolvedor de front-end e back-end apaixonado do Brasil</h3>
 
 - 🌱 Atualmente estou aprendendo **FrontEnd, BackEnd e Ciência da Computação na Trybe**
