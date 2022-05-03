@@ -33,5 +33,11 @@
 <a href="https: //tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   
-  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=defreitaslucas&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defreitaslucas&langs_count=8&theme=dark)](https://github.com/defreitaslucas/github-readme-stats)
+  
+  
+  <!-- Dashboard -->
+<div align="center">
+ <a href="https://github.com/defreitaslucas">
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=defreitaslucas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defreitaslucas&layout=compact&langs_count=7&theme=merko"/>
+</div>
