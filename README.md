@@ -1,4 +1,4 @@
-<img align="left" src="https://octodex.github.com/images/steroidtocat.png" alt="octocat" height="40" width="80" />
+<img align="left" src="https://octodex.github.com/images/steroidtocat.png" alt="octocat" height="100" width="150" />
 <h1 align="center">Olá 👋, sou Lucas</h1>
 <h3 align="center">Um desenvolvedor de front-end e back-end apaixonado do Brasil</h3>
 
