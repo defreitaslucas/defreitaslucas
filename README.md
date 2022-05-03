@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Lucas</h1>
-<img src="https://octodex.github.com/images/steroidtocat.png" alt="octocat" height="250" width="300" />
+<img align="center" src="https://octodex.github.com/images/steroidtocat.png" alt="octocat" height="250" width="300" />
 <br>
 <h3 align="center">Um desenvolvedor de front-end e back-end apaixonado do Brasil</h3>
 
