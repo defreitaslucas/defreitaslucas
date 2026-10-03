@@ -3,7 +3,7 @@
 <br>
 <h3 align="center">Um desenvolvedor de back-end apaixonado do Brasil</h3>
 
-- 🌱 Atualmente estou aprendendo **FrontEnd, BackEnd e Ciência da Computação na Trybe**
+- 🌱 Atualmente sou desenvolvedor **BackEnd**
 
 - 📫 Como me encontrar **lucas.dfa@live.com**
 
